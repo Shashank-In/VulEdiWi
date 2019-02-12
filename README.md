@@ -1,4 +1,4 @@
-# VulEdiWi
+# VulEdiWi (Publicly Editable Github Wiki Finder)
 
 # Description
 A tool to find all the publicly editable wiki of an organization and publish your demo page on it.
