@@ -42,5 +42,12 @@ etc.
 data = os.popen('curl -s "https://api.github.com/users/'+enter+'/repos?per_page=100&page=1"  | grep -o '+"'https://github.com[^\"]*\.git'").read()
 ```
 
-[![Watch the video]](https://youtu.be/-fpSCtjE34o)
+# How to use
+```
+git clone https://github.com/Shashank-In/VulEdiWi.git
+```
+
+```
+python3 VulEdiWi.py github_username
+```
 
