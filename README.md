@@ -1,5 +1,9 @@
 # VulEdiWi (Publicly Editable Github Wiki Finder)
 
+Read the Blog Post Here
+
+http://blog.shashank.co/2019/03/taking-over-publicly-editable-github.html
+
 # Description
 A tool to find all the publicly editable wiki of an organization and publish your demo page on it.
 This code works wells on Mac OS. In case you are looking to run it on ubuntu servers use 
