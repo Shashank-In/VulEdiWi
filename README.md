@@ -42,5 +42,5 @@ etc.
 data = os.popen('curl -s "https://api.github.com/users/'+enter+'/repos?per_page=100&page=1"  | grep -o '+"'https://github.com[^\"]*\.git'").read()
 ```
 
-[![Watch the video](https://i.imgur.com/vKb2F1B.png)](https://youtu.be/-fpSCtjE34o)
+[![Watch the video]](https://youtu.be/-fpSCtjE34o)
 
